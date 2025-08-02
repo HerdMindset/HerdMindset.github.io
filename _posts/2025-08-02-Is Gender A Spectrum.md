@@ -6,7 +6,7 @@ categories: blog
 ---
 
 Does Deutsche Welle really have to use such extremely controversial topics like gender diversity for learning German?
-(https://learngerman.dw.com/de/wovon-handelt-der-text/l-73368543/e-73371795)
+[https://learngerman.dw.com/de/wovon-handelt-der-text/l-73368543/e-73371795](https://learngerman.dw.com/de/wovon-handelt-der-text/l-73368543/e-73371795)
 
 There is definitely no "broad consensus" on this issue, and I honestly cannot imagine that a DW journalist has the necessary depth of expertise here.
 Presenting this still-unresolved question as "this is what people used to think, but now we know better" strikes me as presumptuous and reflects an inappropriate political agenda!
