@@ -145,3 +145,22 @@ Now, if we’re being honest — intellectually honest — this is not how one c
 
 What we’re seeing here is a familiar kind of sleight of hand — quoting the most extreme number in a highly disputed range, while failing to mention the debate surrounding it. And this isn’t how science operates. It’s how advocacy works. And the distinction is important.
 
+--------------------------------------------
+
+Here's a **summary in English** of the main arguments from the German text:
+
+
+**Title:** *Male, Female, Diverse – Also Biologically*
+
+**Summary:**
+
+For a long time, science assumed that biological sex could be clearly determined by chromosomes and hormones—XX for females and XY for males. However, this binary view is now outdated. Scientific consensus increasingly recognizes sex as a spectrum rather than a strict male/female divide.
+
+Key points:
+
+* **Chromosomes:** Not all people with XY chromosomes develop male characteristics, and some with XX chromosomes may develop male traits. Variations during embryonic development can result in diverse biological outcomes.
+* **Intersex individuals:** According to UN estimates, up to 1.7% of the global population is intersex, showing that biology isn't strictly binary.
+* **Hormones:** All people, regardless of gender, have testosterone, estrogen, and progesterone. Hormone levels overlap more than previously thought and can vary based on external factors—not just genetics. Even expectant fathers experience hormonal shifts.
+* **Past research bias:** Early studies focused on testosterone in men and estrogen in women, reinforcing binary ideas. Current research explores hormonal and biological overlaps across genders.
+* **Conclusion:** Scientific findings from genetics, endocrinology, and neuroscience increasingly reject strict binary definitions. Biological sex is diverse and multifaceted, just like humanity itself.
+
