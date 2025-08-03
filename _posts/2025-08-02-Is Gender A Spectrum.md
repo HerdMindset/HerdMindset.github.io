@@ -127,7 +127,7 @@ Here’s how it breaks down, depending on how "intersex" is defined:
 
 **Source references:**
 
-* Sax, Leonard (2002). *How common is intersex?* Journal of Sex Research. He argued the real rate is closer to **0.018%** based on stricter medical criteria.
+* [Sax, Leonard (2002). *How common is intersex?* Journal of Sex Research](https://doi.org/10.1080/00224490209552139). He argued the real rate is closer to **0.018%** based on stricter medical criteria.
 * Other endocrinological and pediatric studies place it between **0.02% and 0.05%**, depending on the inclusion of conditions like Klinefelter or Turner syndrome.
 
 ---
