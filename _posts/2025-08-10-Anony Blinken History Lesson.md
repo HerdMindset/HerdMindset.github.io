@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Antony Blinken's history lesson on the Israel-Gaza conflict"
+date: 2025-08-10
+categories: blog
+---
+
+Here is an excerpt from the full transcript of the 
+outstanding [Freakonomics interview with Antony Blinken](https://freakonomics.com/podcast/how-to-wage-peace-according-to-tony-blinken/):
+
+
+DUBNER: When you look back over the history of Israel, how can you best describe how this country went from being a largely celebrated Middle East democracy, which was under attack almost continuously by its neighbors who oppose Western values, which aligned Israel further with the U.S., and Israel defended itself and it got stronger militarily as well as economically, and that was the reputation for a few decades — to now, where the public sentiment globally, in many quarters at least, has been shifted to where it’s basically called a settler-colonial villain. That’s the progressive left configuration at least. Can you describe the degree to which that was a change in perception, a change in facts on the ground, things that Israel did prima facie wrong to bring that reputation onto itself versus campaigns against it, etc.
+
+BLINKEN: Yeah, so much goes into that. We could probably spend the entire time on that question, but just a few thoughts. What you’ll hear many say, especially those who went through the Holocaust, went through World War II, is, They despised us and disdained us when we were weak and meek, going off to the slaughter. Now they despise us and disdain us for being strong. It’s a worldview that, in a sense, no matter what you do, the haters are going to hate.
+
+DUBNER: It’s also a good political strategy for autocrats in that part of the world, a different version of bread and circuses, I guess.
+
+BLINKEN: Yes, there’s something to that as well. Part of the problem that we’re living through right now is an absence of any kind of historical grounding, a lack of context. And so in brief, what happened in the Middle East with Israel? When Israel was founded, when it declared its independence, there was a partition that was recognized and voted by the United Nations. It was not accepted in the moment by Arab countries, which urged the Palestinians to push back against it. There was a war of independence and of course many Palestinians were made refugees, just as a roughly equal number of Jews were made refugees from Arab countries at the time. And then you had decades during which Arab countries didn’t accept Israel’s existence. You had wars. You had ‘67, you had ‘73. But then ultimately you had a change, and a breakthrough. Egypt, Jordan, and then others came around. And then efforts were made to finally resolve the question, including the question for the Palestinians. But unfortunately, in that period, Palestinian leadership rejected many of the settlements that were proposed.
+
+DUBNER: We’re up to Oslo now, or?
+
+BLINKEN: We’re up to Oslo and then Camp David, and right up to the early 2000s.
+
+DUBNER: I had an interesting conversation the other day with a young person who was really interested in this political story, and definitely knew quite a bit about the current events. They, however, did not know about the Oslo Accords at all — which surprised me, because to me, it doesn’t seem that long ago, and it was foundational. This gets to what you were saying a bit ago about living in a — I don’t know if it’s fair to call it an ahistoric age?
+
+BLINKEN: I think it’s probably pretty fair. You’ve got Oslo, you’ve got what President Clinton did at Camp David where the offer on the table for the Palestinians was about 97 percent of the West Bank, and they said no. The leadership couldn’t say yes. 
+
+DUBNER: And if you had to explain those decades of rejection of those various plans, maybe going back to Arafat and up through Hamas, how would you shorthand it?
+
+BLINKEN: I think part of it was a rejection, actually, of a two-state solution. Every time things were moving in a positive direction — Oslo, you mentioned, and then later, in the early 2000s, the Arab Peace Initiative, which was a big moment, when Arab countries got behind a two-state solution — who came along immediately and tried to literally blow it up? Hamas, perpetrating horrific terrorist attacks after Oslo and after the Arab Peace Initiative. The biggest opponent of a two-state solution throughout has been Hamas. One of the things I say to Israelis and others who say, “Oh, we can’t make an accommodation with the Palestinians now because it would be to give Hamas a big victory” — no, it’s exactly the opposite. The ultimate defeat of Hamas and everything it represents would be the realization of a Palestinian state with a secure Israel. So you have decades of Arab rejection. Then you have a couple of decades of Palestinian rejection. But what do we have over the last 15 or so years? In effect, Israeli rejection. A belief that the status quo could prevail and that it didn’t need to accommodate the rightful aspirations of Palestinians for a state of their own. This is in some ways not hard to understand. The Israelis got out of Gaza in 2005. They pulled up every settlement, every settler. What happened? Hamas came in, managed to push out the more moderate Palestinian Authority, and then repeatedly launched attacks against Israel from Gaza, ultimately culminating in October 7th. So from the Israeli perspective, it’s, “Wait a minute. We gave up the land. We gave up the settlements. We got out. And what did we get? We got Hamas.” Similarly, in the north, after occupying southern Lebanon for 18 years, they left. And what happened? Hezbollah came in, and launched attacks against northern Israel repeatedly. So if you put yourself in their shoes, I think their feeling was, you know, decades of rejection by Arabs. Then we had extremist groups who, again, rejected our existence and sought our destruction. But then finally, they got to a place where they thought they had a status quo that could prevail, where after the second Intifada, there was relative quiet and relative calm, and I think Israelis were lulled into a sense that, “Okay, we don’t have to do anything.” 
