@@ -1,6 +1,4 @@
-## Unverhüllter Bias bei der „Zeit“
-
-#### Wie Sprache Urteile rahmt – am Beispiel Maja T.
+**Unverhüllter Bias bei der „Zeit“**: Wie Sprache Urteile rahmt – am Beispiel Maja T.
 
 
 Am 4. Februar 2026 veröffentlichte *Die Zeit* einen Artikel mit der Überschrift:
