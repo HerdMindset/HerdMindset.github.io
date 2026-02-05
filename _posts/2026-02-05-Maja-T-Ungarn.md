@@ -9,7 +9,7 @@ Auf den ersten Blick eine nüchterne Meldung. Doch bei näherem Hinsehen zeigt d
 
 ---
 
-## **1. Wortwahl: „Aktivistin“ als politischer Euphemismus**
+### **1. Wortwahl: „Aktivistin“ als politischer Euphemismus**
 
 Die *Zeit* bezeichnet Maja T. im Titel als **„Aktivistin“**. ([DIE ZEIT][1])
 
@@ -25,7 +25,7 @@ Zum Vergleich:
 
 ---
 
-## **2. Pronomen und Identitätsmarkierung – relevant oder reißerisch?**
+### **2. Pronomen und Identitätsmarkierung – relevant oder reißerisch?**
 
 Im Artikel von *Die Zeit* heißt es (nur im Fließtext), dass Maja T. nicht binär sei und weibliche Pronomen nutze. ([DIE ZEIT][1])
 
@@ -38,7 +38,7 @@ Im Deutschen gibt es keine einfache sprachliche Möglichkeit, vollständig *gesc
 
 ---
 
-## **3. Grammatisches Geschlecht vs. journalistische Neutralität**
+### **3. Grammatisches Geschlecht vs. journalistische Neutralität**
 
 Deutsch zwingt durch Artikel und Substantivformen fast immer ein **grammatisches Geschlecht** auf:
 
@@ -66,7 +66,7 @@ Diese Formen reduzieren ungewollte Zuschreibungen und vermeiden positive oder ne
 
 ---
 
-## **4. Framing durch Titel – Warum das wichtig ist**
+### **4. Framing durch Titel – Warum das wichtig ist**
 
 Die Überschrift *„Aktivistin … verurteilt“* rahmt den Fall so, dass:
 
@@ -78,7 +78,7 @@ Das ist keine *stilistische Freiheit*, sondern eine **redaktionelle Entscheidung
 
 ---
 
-## **5. Fazit: Mehr Neutralität, weniger Narrative**
+### **5. Fazit: Mehr Neutralität, weniger Narrative**
 
 Der Fall Maja T. zeigt exemplarisch, wie schnell *Sprache hinzufügt, was sie nicht müsste* – und dadurch Frames schafft, die im journalistischen Kontext nichts zu suchen haben.
 
@@ -92,7 +92,7 @@ Sprache ist nie komplett neutral, aber sie kann – und muss – näher an Objek
 
 ---
 
-## **Quellen**
+### **Quellen**
 
 * „Ungarn: Deutsche Aktivistin Maja T. in Budapest zu acht Jahren Haft verurteilt“, *Die Zeit* (04.02.2026) ([DIE ZEIT][1])
 * Verschiedene Berichte über den Prozess und Vorwürfe gegen Maja T. zeigen, dass es sich um ein **Urteil wegen Gewaltvorwürfen gegen mutmaßliche Rechtsextremisten** handelt. ([n-tv][2])
