@@ -83,7 +83,7 @@ Sprache ist nie komplett neutral, aber sie kann – und muss – näher an Objek
 
 ---
 
-## 5. Empathie – und warum sie hier nicht der Fokus ist
+### 5. Empathie – und warum sie hier nicht der Fokus ist
 
 Ein Punkt soll ausdrücklich festgehalten werden, um Missverständnisse zu vermeiden:
 
@@ -91,13 +91,14 @@ Ein Punkt soll ausdrücklich festgehalten werden, um Missverständnisse zu verme
 > **Ich halte Misshandlung oder strukturelle Diskriminierung für möglich.**  
 > **Und ich traue dem ungarischen Rechtssystem nur sehr begrenzt.**
 
-Dass ein EU-Mitgliedsstaat Anlass zu solchen Zweifeln gibt, ist höchst bedauerlich. Vor diesem Hintergrund lässt sich gut argumentieren, dass die Auslieferung nach Ungarn problematisch war.
+Beides führt bei mir zu großer Betroffenheit, Empathie und Empörung!
+
+Dass ein EU-Mitgliedsstaat Anlass zu solchen Zweifeln gibt, ist höchst bedauerlich. Vor diesem Hintergrund lässt sich gut argumentieren, dass die Auslieferung nach Ungarn mehr als problematisch war.
 
 ---
 
 ### Warum ist das trotzdem nicht das Hauptthema dieses Beitrags?
 
-Ganz einfach:
 
 > **Weil diese Aspekte bereits das dominante Narrativ der medialen Berichterstattung sind.**
 
@@ -108,7 +109,6 @@ Aber sie darf **nicht unmarkiert in Überschriften, Rollenbezeichnungen und Fram
 
 > **Empathie gehört in Kommentare und Meinungsstücke –  
 > nicht stillschweigend in Nachrichtenüberschriften.**
-
 
 
 ---
