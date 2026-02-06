@@ -25,20 +25,11 @@ Zum Vergleich:
 
 ---
 
-### **2. Pronomen und Identitätsmarkierung – relevant oder reißerisch?**
+### **2. Grammatisches Geschlecht vs. journalistische Neutralität**
 
 Im Artikel von *Die Zeit* heißt es (nur im Fließtext), dass Maja T. nicht binär sei und weibliche Pronomen nutze. ([DIE ZEIT][1])
 
-👉 Kritikpunkte:
-
-* Die Information ist für den **Tatvorwurf irrelevant** (Angriffsvorwürfe, Urteil, Prozessverlauf).
-* Ihre prominente Erwähnung dient nicht der Sachklärung, sondern ist ein **identitätspolitisches Signal**, das die Neutralität der Berichterstattung unterläuft.
-
 Im Deutschen gibt es keine einfache sprachliche Möglichkeit, vollständig *geschlechtsneutral* zu formulieren. Dennoch ist das kein Grund, **irrelevante Identitätsinformationen prominent zu platzieren** – erst recht nicht in Überschrift oder Lead.
-
----
-
-### **3. Grammatisches Geschlecht vs. journalistische Neutralität**
 
 Deutsch zwingt durch Artikel und Substantivformen fast immer ein **grammatisches Geschlecht** auf:
 
@@ -66,7 +57,7 @@ Diese Formen reduzieren ungewollte Zuschreibungen und vermeiden positive oder ne
 
 ---
 
-### **4. Framing durch Titel – Warum das wichtig ist**
+### **3. Framing durch Titel – Warum das wichtig ist**
 
 Die Überschrift *„Aktivistin … verurteilt“* rahmt den Fall so, dass:
 
@@ -78,7 +69,7 @@ Das ist keine *stilistische Freiheit*, sondern eine **redaktionelle Entscheidung
 
 ---
 
-### **5. Fazit: Mehr Neutralität, weniger Narrative**
+### **4. Fazit: Mehr Neutralität, weniger Narrative**
 
 Der Fall Maja T. zeigt exemplarisch, wie schnell *Sprache hinzufügt, was sie nicht müsste* – und dadurch Frames schafft, die im journalistischen Kontext nichts zu suchen haben.
 
@@ -89,6 +80,36 @@ Der Fall Maja T. zeigt exemplarisch, wie schnell *Sprache hinzufügt, was sie ni
 * Gewährleistung von Neutralität auch im Deutschen durch grammatikalisch kreative, aber sachlich präzise Formulierungen.
 
 Sprache ist nie komplett neutral, aber sie kann – und muss – näher an Objektivität arbeiten als an Identitätspolitik.
+
+---
+
+## 5. Empathie – und warum sie hier nicht der Fokus ist
+
+Ein Punkt soll ausdrücklich festgehalten werden, um Missverständnisse zu vermeiden:
+
+> **Ich halte es für sehr plausibel, dass Maja T. als nicht-binäre Person in einem ungarischen Gefängnis besonders leidet.**  
+> **Ich halte Misshandlung oder strukturelle Diskriminierung für möglich.**  
+> **Und ich traue dem ungarischen Rechtssystem nur sehr begrenzt.**
+
+Dass ein EU-Mitgliedsstaat Anlass zu solchen Zweifeln gibt, ist höchst bedauerlich. Vor diesem Hintergrund lässt sich gut argumentieren, dass die Auslieferung nach Ungarn problematisch war.
+
+---
+
+### Warum ist das trotzdem nicht das Hauptthema dieses Beitrags?
+
+Ganz einfach:
+
+> **Weil diese Aspekte bereits das dominante Narrativ der medialen Berichterstattung sind.**
+
+Haftbedingungen, Identität, Vulnerabilität und rechtsstaatliche Defizite Ungarns werden seit Wochen ausführlich diskutiert. Mein Anliegen ist daher ein anderes: die **sprachlichen und redaktionellen Entscheidungen**, mit denen diese Debatte gerahmt wird.
+
+Empathie ist wichtig.  
+Aber sie darf **nicht unmarkiert in Überschriften, Rollenbezeichnungen und Frames eingebaut werden**.
+
+> **Empathie gehört in Kommentare und Meinungsstücke –  
+> nicht stillschweigend in Nachrichtenüberschriften.**
+
+
 
 ---
 
