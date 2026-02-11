@@ -5,3 +5,8 @@ theme: minima
 
 # Optional extras
 show_excerpts: true
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
