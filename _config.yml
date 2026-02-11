@@ -3,6 +3,19 @@ author: Your Name
 description: A simple blog powered by GitHub Pages and Jekyll
 theme: minima
 
+minima:
+  custom_head: |
+    <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$']],
+        displayMath: [['$$', '$$']]
+      }
+    };
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
 # Optional extras
 show_excerpts: true
 
